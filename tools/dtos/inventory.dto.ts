@@ -1,3 +1,4 @@
-export class InventoryTypeDto {
-    name: string;
+export class InventoryDto {
+    barcode: number;
+    description: string;
   }
